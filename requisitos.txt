@@ -7,4 +7,4 @@
 #07 Jornalista quer poder relacionar características do eleitorado de acordo com o representante eleito em determinada região de eleições futuras 	
 #08 Jornalista quer saber a percentagem de eleitores ausentes da última eleição 	
 -- #09 Jornalista quer saber a evolução do número de eleitores 	
-#10 Jornalista quer a análise de dados feita em Jupyter Notebook 
+-- #10 Jornalista quer a análise de dados feita em Jupyter Notebook 
